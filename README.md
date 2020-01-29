@@ -1,1 +1,1 @@
-# SoupUiMantis
+# SoapUIMantis
